@@ -30,11 +30,10 @@ Features:
 | ~ this building process also runs program automatically |
 | :$ make                                                 |
 |                                                         |
-| 2. Execute main                                         |
+| 2. Edit input File                                      |
 | ~ edit matrix_arr/src/input.txt file                    |
-| ~ use format (rowsxcolumns for dimensions)              |
-| :$ make                                                 |
+| ~ use format (rowsxcolumns for dimensions)              |                                                 
 |                                                         |
 | 3. Execute main program         :                       |
-| :$ ./main                                               |                               |
+| :$ ./main                                               |
 +*********************************************************+
