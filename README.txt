@@ -31,8 +31,8 @@ Features:
 | :$ make                                                 |
 |                                                         |
 | 2. Edit input File                                      |
-| ~ edit matrix_arr/src/input.txt file                    |
-| ~ use format (rowsxcolumns for dimensions)              |                                                 
+| ~ edit  matrix_arr_with_inputstream/src/input.txt file  |
+| ~ use format (rowsxcolumns for dimensions)              |
 |                                                         |
 | 3. Execute main program         :                       |
 | :$ ./main                                               |
