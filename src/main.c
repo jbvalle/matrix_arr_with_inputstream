@@ -21,13 +21,13 @@ void add_args_to_matrix(char **args,float *matrix, int rows, int columns){
 int main(void){
 
     //ptr2ptr to acces matrices with array indices
-    char **args = (char**)malloc(100*sizeof(char));
+    char **args = (char**)malloc(1000*sizeof(char));
     //Input Stream -> Floating Point Values of matrices
-    char *input_string = (char*)malloc(100*sizeof(char));
+    char *input_string = (char*)malloc(1000*sizeof(char));
 
     int  rows, columns;
     //Initialize input_string with terminator
-    for(int i = 0; i < 100; i++)input_string[i] = '\0';
+    for(int i = 0; i < 1000; i++)input_string[i] = '\0';
 
     //Input - Dimensions & Matrix Values ----------------------------------
     FILE *file_input_stream = fopen("input.txt","r");
