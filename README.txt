@@ -22,7 +22,7 @@ matrices
 
 Features:
 1. Generates averaged 2-dimension-array
-2. The Sorting Algorithm is demonstrated in an increasing and decreasing order
+2. Inputs from input.txt and outputs to output.txt
 
 +*****Building Process & Execution:***********************+
 |                                                         |
